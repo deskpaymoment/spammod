@@ -3,7 +3,7 @@ let i = null;
 i = '';
 
 i = 0;
-let msg = ['downloading DM,denuncia ativa, files, content from IP address = ','connecting to instagram.com server mainframe...byte packet size= ','@denunciando... '];
+let msg = ['downloading DM,denuncia ativa, files, content from IP address = ','connecting to bad server mainframe...byte packet size= ','@denunciando... '];
 
 let hack = () =>{
 i++;
